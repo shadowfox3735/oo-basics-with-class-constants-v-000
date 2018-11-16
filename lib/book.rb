@@ -15,6 +15,5 @@ class Book
     @genre = genre
     GENRES << genre
   end
-d
 
 end
